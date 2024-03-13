@@ -1,0 +1,31 @@
+.a-content > h2 { 
+    font-size: 5rem;
+  }
+  .a-content > p {
+    font-size: 2.5rem;
+    font-family: 'Source Code Pro';
+    line-height: 1.6;
+  }
+
+  #about {
+    position: relative;
+    min-width: 100vw;
+    min-height: 60vh;
+    font-weight: 200;
+    font-size: 2.3rem;
+    padding: 8rem 10% 0;
+    background: #1d2d44;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+  }
+  
+  .codelogo > i {
+    font-size: 8rem;
+    margin-right: 1rem;
+    margin-bottom: 3rem;
+    
+  }
+  
+  .codelogo {
+    margin-top: 2rem;
+  }
