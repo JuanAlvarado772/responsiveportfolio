@@ -61,7 +61,7 @@ input[type="radio"] {
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 30rem;
+    width: 40rem;
     height: auto;
     transform: translate3d(-50%, -50%, 0);
   }
@@ -72,7 +72,7 @@ input[type="radio"] {
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 30rem;
+    width: 40rem;
     height: auto;
     transform: translate3d(-50%, -50%, 0);
   }
@@ -202,5 +202,14 @@ input[type="radio"] {
     .wo-caption {
         margin-right: 40px;
   }
+  .c-img-w-full {
+    left: 40%;
+    
+  }
+  .c-img-h-full {
+    left: 40%;
+    
+  }
+  
 }
 
